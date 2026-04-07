@@ -1,4 +1,4 @@
-# Tweaked Mines
+# Team Mode
 
 Team mode for **Super Battle Golf**.
 
