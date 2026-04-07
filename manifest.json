@@ -1,0 +1,9 @@
+{
+    "name": "Team_Mode",
+    "version_number": "0.1.0",
+    "website_url": "https://github.com/Ragnohr10/Team_Mode_Super_Battle_Golf/",
+    "description": "Adds a full team mode to Super Battle Golf. Assign players to teams, share scores, toggle friendly fire, and view a team scoreboard sorted by total score.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2304"
+    ]
+}
