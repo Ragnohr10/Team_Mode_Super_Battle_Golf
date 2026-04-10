@@ -15,4 +15,4 @@ Team mode for **Super Battle Golf**.
 Place this package into the game folder so the DLL ends up at `BepInEx/plugins/Team_Mode/Team_Mode.dll`.
 
 ## Version
-- `0.1.0`
+- `0.1.2`
